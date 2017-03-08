@@ -1,0 +1,14 @@
+{
+  "name": "todd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlgorTroy & AzurAthena",
+  "license": "ISC",
+  "devDependencies": {
+    "materialize-css":"^0.98.0"
+  }
+}

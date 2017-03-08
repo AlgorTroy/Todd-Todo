@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(36,49,60);
+  -webkit-app-region: drag;
+}
+
+#task_string{
+  color: white;
+  font-weight: bold;
+}
+
+#task_form{
+  color: white;
+  font-weight: bold;
+}
+
+#del_task{
+  visibility:hidden;
+}
