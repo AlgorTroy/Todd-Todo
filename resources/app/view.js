@@ -38,4 +38,10 @@ $('#task_string').on('keypress', (ev) => {
     }
 })
 
+
+$('#task_list').on('hover', () =>{
+  $('#del_task').css('background-color', 'red');
+  $('#del_task').css('visibility', 'visible');
+})
+
 $("body").css("overflow", "auto");
