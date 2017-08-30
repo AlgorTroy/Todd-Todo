@@ -9,6 +9,9 @@
   "author": "AlgorTroy & AzurAthena",
   "license": "ISC",
   "devDependencies": {
-    "materialize-css":"^0.98.0"
+    "materialize-css": "^0.98.0"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.24"
   }
 }
